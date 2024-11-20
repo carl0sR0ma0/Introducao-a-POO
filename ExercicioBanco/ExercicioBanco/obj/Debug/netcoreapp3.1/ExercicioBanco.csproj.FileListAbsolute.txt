@@ -1,0 +1,13 @@
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.exe
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.deps.json
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.runtimeconfig.json
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.runtimeconfig.dev.json
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.dll
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.pdb
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.csprojAssemblyReference.cache
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.AssemblyInfoInputs.cache
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.AssemblyInfo.cs
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.csproj.CoreCompileInputs.cache
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.dll
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.pdb
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.genruntimeconfig.cache

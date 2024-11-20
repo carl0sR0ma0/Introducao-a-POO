@@ -1,0 +1,12 @@
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio01_Triangulo\Exercicio01_Triangulo\bin\Debug\netcoreapp3.1\Exercicio01_Retangulo.exe
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio01_Triangulo\Exercicio01_Triangulo\bin\Debug\netcoreapp3.1\Exercicio01_Retangulo.deps.json
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio01_Triangulo\Exercicio01_Triangulo\bin\Debug\netcoreapp3.1\Exercicio01_Retangulo.runtimeconfig.json
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio01_Triangulo\Exercicio01_Triangulo\bin\Debug\netcoreapp3.1\Exercicio01_Retangulo.runtimeconfig.dev.json
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio01_Triangulo\Exercicio01_Triangulo\bin\Debug\netcoreapp3.1\Exercicio01_Retangulo.dll
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio01_Triangulo\Exercicio01_Triangulo\bin\Debug\netcoreapp3.1\Exercicio01_Retangulo.pdb
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio01_Triangulo\Exercicio01_Triangulo\obj\Debug\netcoreapp3.1\Exercicio01_Retangulo.AssemblyInfoInputs.cache
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio01_Triangulo\Exercicio01_Triangulo\obj\Debug\netcoreapp3.1\Exercicio01_Retangulo.AssemblyInfo.cs
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio01_Triangulo\Exercicio01_Triangulo\obj\Debug\netcoreapp3.1\Exercicio01_Retangulo.csproj.CoreCompileInputs.cache
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio01_Triangulo\Exercicio01_Triangulo\obj\Debug\netcoreapp3.1\Exercicio01_Retangulo.dll
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio01_Triangulo\Exercicio01_Triangulo\obj\Debug\netcoreapp3.1\Exercicio01_Retangulo.pdb
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio01_Triangulo\Exercicio01_Triangulo\obj\Debug\netcoreapp3.1\Exercicio01_Retangulo.genruntimeconfig.cache

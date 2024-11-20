@@ -1,0 +1,12 @@
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio02_Funcionario\Exercicio02_Funcionario\bin\Debug\netcoreapp3.1\Exercicio02_Funcionario.exe
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio02_Funcionario\Exercicio02_Funcionario\bin\Debug\netcoreapp3.1\Exercicio02_Funcionario.deps.json
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio02_Funcionario\Exercicio02_Funcionario\bin\Debug\netcoreapp3.1\Exercicio02_Funcionario.runtimeconfig.json
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio02_Funcionario\Exercicio02_Funcionario\bin\Debug\netcoreapp3.1\Exercicio02_Funcionario.runtimeconfig.dev.json
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio02_Funcionario\Exercicio02_Funcionario\bin\Debug\netcoreapp3.1\Exercicio02_Funcionario.dll
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio02_Funcionario\Exercicio02_Funcionario\bin\Debug\netcoreapp3.1\Exercicio02_Funcionario.pdb
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio02_Funcionario\Exercicio02_Funcionario\obj\Debug\netcoreapp3.1\Exercicio02_Funcionario.AssemblyInfoInputs.cache
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio02_Funcionario\Exercicio02_Funcionario\obj\Debug\netcoreapp3.1\Exercicio02_Funcionario.AssemblyInfo.cs
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio02_Funcionario\Exercicio02_Funcionario\obj\Debug\netcoreapp3.1\Exercicio02_Funcionario.csproj.CoreCompileInputs.cache
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio02_Funcionario\Exercicio02_Funcionario\obj\Debug\netcoreapp3.1\Exercicio02_Funcionario.dll
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio02_Funcionario\Exercicio02_Funcionario\obj\Debug\netcoreapp3.1\Exercicio02_Funcionario.pdb
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio02_Funcionario\Exercicio02_Funcionario\obj\Debug\netcoreapp3.1\Exercicio02_Funcionario.genruntimeconfig.cache

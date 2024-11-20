@@ -1,0 +1,13 @@
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio03_Aluno\Exercicio03_Aluno\bin\Debug\netcoreapp3.1\Exercicio03_Aluno.exe
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio03_Aluno\Exercicio03_Aluno\bin\Debug\netcoreapp3.1\Exercicio03_Aluno.deps.json
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio03_Aluno\Exercicio03_Aluno\bin\Debug\netcoreapp3.1\Exercicio03_Aluno.runtimeconfig.json
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio03_Aluno\Exercicio03_Aluno\bin\Debug\netcoreapp3.1\Exercicio03_Aluno.runtimeconfig.dev.json
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio03_Aluno\Exercicio03_Aluno\bin\Debug\netcoreapp3.1\Exercicio03_Aluno.dll
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio03_Aluno\Exercicio03_Aluno\bin\Debug\netcoreapp3.1\Exercicio03_Aluno.pdb
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio03_Aluno\Exercicio03_Aluno\obj\Debug\netcoreapp3.1\Exercicio03_Aluno.csprojAssemblyReference.cache
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio03_Aluno\Exercicio03_Aluno\obj\Debug\netcoreapp3.1\Exercicio03_Aluno.AssemblyInfoInputs.cache
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio03_Aluno\Exercicio03_Aluno\obj\Debug\netcoreapp3.1\Exercicio03_Aluno.AssemblyInfo.cs
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio03_Aluno\Exercicio03_Aluno\obj\Debug\netcoreapp3.1\Exercicio03_Aluno.csproj.CoreCompileInputs.cache
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio03_Aluno\Exercicio03_Aluno\obj\Debug\netcoreapp3.1\Exercicio03_Aluno.dll
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio03_Aluno\Exercicio03_Aluno\obj\Debug\netcoreapp3.1\Exercicio03_Aluno.pdb
+D:\_Desenvolvimento\_DotNet\_C#\_temp\ws-vs2019\Introducao a POO\Exercicio03_Aluno\Exercicio03_Aluno\obj\Debug\netcoreapp3.1\Exercicio03_Aluno.genruntimeconfig.cache

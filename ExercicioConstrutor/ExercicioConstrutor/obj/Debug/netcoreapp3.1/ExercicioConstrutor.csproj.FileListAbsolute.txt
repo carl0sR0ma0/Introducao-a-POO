@@ -1,0 +1,13 @@
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioConstrutor\ExercicioConstrutor\bin\Debug\netcoreapp3.1\ExercicioConstrutor.exe
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioConstrutor\ExercicioConstrutor\bin\Debug\netcoreapp3.1\ExercicioConstrutor.deps.json
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioConstrutor\ExercicioConstrutor\bin\Debug\netcoreapp3.1\ExercicioConstrutor.runtimeconfig.json
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioConstrutor\ExercicioConstrutor\bin\Debug\netcoreapp3.1\ExercicioConstrutor.runtimeconfig.dev.json
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioConstrutor\ExercicioConstrutor\bin\Debug\netcoreapp3.1\ExercicioConstrutor.dll
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioConstrutor\ExercicioConstrutor\bin\Debug\netcoreapp3.1\ExercicioConstrutor.pdb
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioConstrutor\ExercicioConstrutor\obj\Debug\netcoreapp3.1\ExercicioConstrutor.csprojAssemblyReference.cache
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioConstrutor\ExercicioConstrutor\obj\Debug\netcoreapp3.1\ExercicioConstrutor.AssemblyInfoInputs.cache
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioConstrutor\ExercicioConstrutor\obj\Debug\netcoreapp3.1\ExercicioConstrutor.AssemblyInfo.cs
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioConstrutor\ExercicioConstrutor\obj\Debug\netcoreapp3.1\ExercicioConstrutor.csproj.CoreCompileInputs.cache
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioConstrutor\ExercicioConstrutor\obj\Debug\netcoreapp3.1\ExercicioConstrutor.dll
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioConstrutor\ExercicioConstrutor\obj\Debug\netcoreapp3.1\ExercicioConstrutor.pdb
+D:\_Desenv\_DotNet\C#\_Dev\Introducao a POO\ExercicioConstrutor\ExercicioConstrutor\obj\Debug\netcoreapp3.1\ExercicioConstrutor.genruntimeconfig.cache

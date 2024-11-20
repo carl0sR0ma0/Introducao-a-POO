@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "izkYtFx/pJ6STpHzQWr/KDvRkfWC8Vcg5bj4dRel+8p0oIeUblQtEEhJ1tn3oqYwNGfYc1E2G2x/KotKkuj3ug==",
+  "success": true,
+  "projectFilePath": "D:\\_Desenvolvimento\\_DotNet\\_C#\\_temp\\ws-vs2019\\Introducao a POO\\Exercicio01\\Exercicio01\\Exercicio01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
